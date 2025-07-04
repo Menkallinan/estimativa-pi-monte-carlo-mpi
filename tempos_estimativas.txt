@@ -1,0 +1,56 @@
+Serial:
+π ≈ 3.141659 Tempo: t = 4.55s
+π ≈ 3.142333 Tempo: t = 4.55s
+π ≈ 3.141150 Tempo: t = 4.48s
+π ≈ 3.142180 Tempo: t = 4.53s
+π ≈ 3.142146 Tempo: t = 4.51s
+π ≈ 3.141578 Tempo: t = 4.51s
+π ≈ 3.142015 Tempo: t = 4.50s
+π ≈ 3.142248 Tempo: t = 4.53s
+π ≈ 3.140978 Tempo: t = 4.55s
+π ≈ 3.140799 Tempo: t = 4.55s
+
+
+para 2 rank:
+Paralelo: π ≈ 3.141590 em 2.27s
+Paralelo: π ≈ 3.142067 em 2.24s
+Paralelo: π ≈ 3.141349 em 2.29s
+Paralelo: π ≈ 3.142141 em 2.31s
+Paralelo: π ≈ 3.142021 em 2.26s
+Paralelo: π ≈ 3.141224 em 2.28s
+Paralelo: π ≈ 3.141440 em 2.30s
+Paralelo: π ≈ 3.140603 em 2.28s
+Paralelo: π ≈ 3.142226 em 2.28s
+Paralelo: π ≈ 3.141032 em 2.38s
+
+para 4 rank:
+Paralelo: π ≈ 3.142574 em 1.13s
+Paralelo: π ≈ 3.141354 em 1.12s
+Paralelo: π ≈ 3.141873 em 1.13s
+Paralelo: π ≈ 3.141597 em 1.13s
+Paralelo: π ≈ 3.141851 em 1.16s
+Paralelo: π ≈ 3.142090 em 1.14s
+Paralelo: π ≈ 3.142090 em 1.14s
+Paralelo: π ≈ 3.141602 em 1.12s
+Paralelo: π ≈ 3.141606 em 1.14s
+Paralelo: π ≈ 3.141058 em 1.11s
+
+
+para 6 rank:
+Paralelo: π ≈ 3.142370 em 1.25s
+Paralelo: π ≈ 3.142033 em 1.18s
+Paralelo: π ≈ 3.141623 em 1.22s
+Paralelo: π ≈ 3.141079 em 1.23s
+Paralelo: π ≈ 3.140913 em 1.22s
+Paralelo: π ≈ 3.141038 em 1.19s
+Paralelo: π ≈ 3.141605 em 1.19s
+Paralelo: π ≈ 3.141152 em 1.20s
+Paralelo: π ≈ 3.141669 em 1.20s
+Paralelo: π ≈ 3.141412 em 1.18s
+
+
+- Serial  : média = 4.526s, mediana = 4.530s, esperado = 4.526s
+- 2 ranks : média = 2.289s, mediana = 2.280s, esperado = 2.263s
+- 4 ranks : média = 1.132s, mediana = 1.130s, esperado = 1.131s
+- 6 ranks : média = 1.206s, mediana = 1.200s, esperado = 0.754s
+
